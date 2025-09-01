@@ -64,10 +64,33 @@ Las dos primeras son internas y las dos segundas son externas.
 **[madrid_csv_to_parquet.py](/media/enero/Disco3ATA/Varios/R/Archivos/datos_madrid/madrid_csv_to_parquet.py) para convertir todos los csv a parquet**
 
 
+## Incorporar códigos de ejemplo en Python y R.
+
+- Propuesta: Incorporar en la pagina web ejemplos de código para el uso de los datos publicados.
+- Objetivos: Facilitar el tratamiento de los datos publicados.
+- Implementación: Se aportan varios ejemplos en el repositorio [link]
 
 
+## Exportar datos a parquet y usar duckDB.
+
+- Propuesta: La incorporación de datos en formato `parquet` está convirtiéndose poco a poco en un estándar que sustituye a los csv, con 
+- Objetivos: La principal ventaja es que la compresión de esta formato reduce el tamaño de los datos. Además permite es uso de herramientas como `duckDB` que facilitan trabajar con datos superiores a la memoria del ordenador. 
+
+## Exportar datos a parquet y usar duckDB.
+
+- Implementación: Se ha desarrollado un código en el repositorio [link] para recorrer la página web y transformar los ficheros `csv` a `parquet`. 
 
 
+## Abrir una página de Github.
+
+- Propuesta: Crear una página propia en Github de Datos Abiertos del Ayuntamiento de Madrid.
+- Objetivos: Facilitar el trabajo con las datos abiertos a través del control de versiones.
+
+
+## Incorporar datos en Kaggle (crear un usuario para el ayuntamiento, con ejemplos).
+
+Propuesta: Crear una página propia en Kaggle de Datos Abiertos del Ayuntamiento de Madrid.
+Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plataforma de uso internacional con mas de 200.000 usuarios. 
 
 
 
