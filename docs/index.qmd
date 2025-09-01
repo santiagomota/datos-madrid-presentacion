@@ -16,7 +16,7 @@ format:
     preview-links: auto
     chalkboard: true
   pptx:
-    reference-doc: template.pptx    
+    reference-doc: template_minima.pptx    
 title-slide-attributes:
   data-background-image: ./figs/intro-slide.png
   data-background-size: cover
@@ -117,24 +117,7 @@ Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plat
 :::
 
 
-## Proyecto de datos I{.smallerTitle}
 
-![](./figs/ciclo_datos.png){fig-align="center"}
-
-
-## Proyecto de datos II{.smallerTitle}
-
-![](./figs/Regresion001.png){fig-align="left"}
-
-
-## Proyecto de datos III{.smallerTitle}
-
-![](./figs/Regresion002.png){fig-align="left"}
-
-
-## Proyecto de datos IV{.smallerTitle}
-
-![](./figs/Regresion003.png){fig-align="left"}
 
 
 ## Proyecto de datos V{.smallerTitle}
@@ -183,11 +166,7 @@ Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plat
 - <strong><span style="color: green;">¿CÓMO TRASLADAR AL NEGOCIO?</span></strong>
 
 
-## Proyecto de datos real{.smallerTitle}
 
-![](./figs/mermaid-figure-2.png){fig-align="center"}
-
-<font size="2">Fuente: [https://jakubnowosad.com/IIIRqueR_workshop/](https://jakubnowosad.com/IIIRqueR_workshop/)</font>
 
 
 ## Mi proyecto en 2012{.smallerTitle}
@@ -366,7 +345,7 @@ Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plat
 ![](./figs/Kaggle_mug.jpg){fig-align="center"}
 
 
-# ¡Gracias!{.center-title-slide}
+## ¡Gracias!{.center-title-slide}
 
 - Santiago Mota [LinkedIn](https://www.linkedin.com/in/santiagomota/) 
 - [santiago_mota@yahoo.es](santiago_mota@yahoo.es) 
