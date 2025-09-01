@@ -12,7 +12,7 @@ format:
     slide-number: c/t
     show-slide-number: all
     logo: figs/logo_premios_2.png
-    footer: "Premios a la reutilización 2025"
+    footer: "Premios a la reutilización 2025 - https://mejoras-madrid.netlify.app/"
     preview-links: auto
     chalkboard: true
   pptx:
