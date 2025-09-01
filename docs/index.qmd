@@ -370,7 +370,7 @@ Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plat
 
 - Santiago Mota [LinkedIn](https://www.linkedin.com/in/santiagomota/) 
 - [santiago_mota@yahoo.es](santiago_mota@yahoo.es) 
-- [Github](https://github.com/santiagomota)
-- [Repositorio Github](https://github.com/santiagomota/datos-madrid-presentacion)
+- [Github Santiago Mota](https://github.com/santiagomota)
+- [Repositorio Github de esta presentación](https://github.com/santiagomota/datos-madrid-presentacion)
 
 ![](./figs/Concurso_presentacion_Github.svg){fig-align="right"}
