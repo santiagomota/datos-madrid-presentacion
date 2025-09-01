@@ -2,6 +2,9 @@
 
 Presentación del Concurso de datos abiertos de Madrid
 
+[](./docs/figs/Portada.png)
+
+
 ## Categorias, criterios de valoración y puntuaciones: 
 
 Servicios web y aplicaciones
