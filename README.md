@@ -2,7 +2,7 @@
 
 Presentación del Concurso de datos abiertos de Madrid
 
-[](./docs/figs/Portada.png)
+[](Portada.png)
 
 
 ## Categorias, criterios de valoración y puntuaciones: 
