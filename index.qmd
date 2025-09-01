@@ -1,0 +1,322 @@
+---
+title: "Premios a la reutilización 2025"
+author: "Santiago Mota | [@mota_santiago](https://twitter.com/mota_santiago)"
+mail:     "santiago_mota@yahoo.es"
+linkedin: "santiagomota"
+twitter:  "mota_santiago"
+github:   "santiagomota"
+date:     today
+format: 
+  revealjs:
+    # theme: [dark, custom.scss]
+    slide-number: c/t
+    show-slide-number: all
+    logo: figs/logo6.png
+    footer: "Premios 2025"
+    preview-links: auto
+    chalkboard: true
+  pptx:
+    reference-doc: template.pptx    
+title-slide-attributes:
+  data-background-image: ./figs/intro-slide.png
+  data-background-size: cover
+  data-background-opacity: "0.5"
+---
+
+
+# Premios a la reutilización 2025 {.smallerTitle}
+
+
+## Santiago Mota Herce {.smallerTitle}
+
+::: {.incremental}
+
+![](./figs/00017_2e.jpg){.absolute bottom=0 right=0 width="20%"}
+
+- Físico. MBA y Máster BI y BigData (2013).
+- M&A. CEO empresa náutica I+D+I.
+- Consultor freelance. Vodafone, Teradata, Bankia, Repsol, BCG, Orange.
+- Co-organizador [Meet-up Usuarios de R Madrid](https://madrid.r-es.org/).
+- Tesorero [R-Hispano](https://r-es.org/).
+- [LinkedIn](https://www.linkedin.com/in/santiagomota/)
+
+:::
+
+
+## Consideraciones previas{.smallerTitle}
+
+- Cada uno de vosotros tiene un objetivo con el TFM.
+- No hay plantillas.
+- No hay (casi) restricciones.
+- Debería ser una continuación de lo que habéis visto.
+
+
+## Consejos en empresas{.smallerTitle}
+
+::: {.incremental}
+
+- El tamaño importa.
+- Juego de las sillas.
+- No saben lo que hacemos.
+- ¿Nos ven como un riesgo?
+- Reinos de Taifas.
+- IT tiene su agenda.
+
+:::
+
+
+## Proyecto de datos I{.smallerTitle}
+
+![](./figs/ciclo_datos.png){fig-align="center"}
+
+
+## Proyecto de datos II{.smallerTitle}
+
+![](./figs/Regresion001.png){fig-align="left"}
+
+
+## Proyecto de datos III{.smallerTitle}
+
+![](./figs/Regresion002.png){fig-align="left"}
+
+
+## Proyecto de datos IV{.smallerTitle}
+
+![](./figs/Regresion003.png){fig-align="left"}
+
+
+## Proyecto de datos V{.smallerTitle}
+
+::: {.incremental}
+
+- Hay casas con mas baños que habitaciones.
+- División Casa / Apartamento.
+- Nuevas columnas.
+- Elementos vacíos.
+- Validación cruzada.
+- Nuevos algoritmos.
+
+:::
+
+
+## Proyecto de datos VI{.smallerTitle}
+
+::: {.incremental}
+
+- Pregunta → Datos → Algoritmos.
+- Tamaño de los datos (escalabilidad).
+- Fase de descubrimiento.
+- ETL.
+- Análisis con visualizaciones.
+- Fuentes externas de datos.
+
+:::
+
+
+## Proyecto de datos VII{.smallerTitle}
+
+- Licencias de uso ([link](https://data.europa.eu/elearning/en/module4/#/id/co-01)).
+- De los datos.
+- Mucho cuidado con los datos de empresa. 
+- Licencias del código.
+- El mundo académico es algo mas laxo.
+- [¿Webscrapping en el INE?](https://www.youtube.com/watch?v=VOISQI566bI)
+
+
+## Proyecto de datos VIII{.smallerTitle}
+
+- Trabajos / papers del dominio.
+- Algoritmos (GBM, Xgboost, Redes neuronales).
+- Presentación de resultados.
+- <strong><span style="color: green;">¿CÓMO TRASLADAR AL NEGOCIO?</span></strong>
+
+
+## Proyecto de datos real{.smallerTitle}
+
+![](./figs/mermaid-figure-2.png){fig-align="center"}
+
+<font size="2">Fuente: [https://jakubnowosad.com/IIIRqueR_workshop/](https://jakubnowosad.com/IIIRqueR_workshop/)</font>
+
+
+## Mi proyecto en 2012{.smallerTitle}
+
+- Cómo nace y cómo cambia. ¿Por qué cambia?
+- [Carta de presentación](./varios/Presentacion_proyecto_Grifores.docx).
+- [Resumen ejecutivo](./varios/Resumen ejecutivo.pdf).
+- Sale todo el mundo a presentar.
+- Ficheros. ¿[Vídeo](../grifores_flowmeter-final.mov)?
+
+
+## Durante el TFM I{.smallerTitle}
+
+- Elegir un proyecto que os guste.
+- ¿Dónde podemos encontrar fuentes de datos? [repo Open data](https://github.com/santiagomota/Open_Data).
+- Análisis previo del proyecto (Post en el foro).
+- El TFM va evolucionando y es normal, si no hay cambios significativos, no hace falta comunicarlo.
+- La autoría del TFM es vuestra.
+
+
+## Durante el TFM II{.smallerTitle}
+
+- ¿Hay alguna plantilla?
+- Planificación del tiempo. 
+- Enfoque iterativo.
+- <strong><span style="color: green;">NO es un ejercicio de una clase.</span></strong>
+- Agosto/Navidades.
+
+
+## Durante el TFM III{.smallerTitle}
+
+- Ojo con los datos sintéticos.
+- No dejar la entrega para el último día.
+- El uso de plataformas cerradas puede hacer que no se tenga acceso externo a los datos.
+- ¿Hay una aplicación web?
+- ¿El código se ejecuta haciendo `RUN`?
+
+
+## Durante el TFM IV{.smallerTitle}
+
+- Directorios (referencias indirectas).
+- No tiene sentido acelerar el vídeo.
+- Qué voy a incluir en los anexos.
+- ¿Es un API de verdad o tres bloques de código levantándola?
+- Google Colab. Ventajas (facilidad) / Desventajas (salir del entorno).
+
+
+## Durante el TFM V{.smallerTitle}
+
+- Si procede. ¿Mejoramos la parte estética del notebook? Markdown / [Quarto](https://quarto.org/docs/get-started/).
+- No hace falta incluir teoría, ni estado del arte (no es un paper).
+- Los vídeos sin soporte pierden mucho.
+- Vídeos en formato vertical.
+- Las tres opciones y el por qué (no tienen trascendencia).
+
+
+## Conclusiones{.smallerTitle}
+
+- Lenguaje rimbombante.
+- "Se ha conseguido..."
+- Cosas que no se derivan del proyecto.
+- Lo que digo en el resumen. ¿Está respaldado por el código?
+- Cual es el alcance del proyecto y posibles limitaciones.
+
+
+## Empresas colaboradoras I{.smallerTitle}
+
+- Depende de la edición.
+- Una oportunidad para los alumnos. 
+- No hay ninguna distinción a la hora de entregar el TFM. (Mismas condiciones).
+- Solucionar un problema a una empresa. 
+- ¿Atractivo?
+
+
+## Empresas colaboradoras II{.smallerTitle}
+
+- El seguimiento suele hacerse por una persona de la empresa.
+- Los plazos pueden no coincidir.
+- ¿Se va a entregar lo mismo?
+- "Matriz de confusión" ¿Contentos? Empresa/Máster.
+
+
+## Datos de nuestra empresa{.smallerTitle}
+
+- ¿De verdad nos va a dejar usar los datos de la empresa?
+- ¿Tenemos algo por escrito? Conversaciones de café...
+- ¿Lo han visto los abogados?
+- Mucho cuidado con los plazos.
+- <strong><span style="color: green;">Tener un plan B y una fecha para ejecutarlo.</span></strong>
+
+
+## NDA{.smallerTitle}
+
+- El TFM sólo lo vemos Carlos y yo.
+- No somos empleados de la Universidad. Firmamos a nivel personal.
+- NDA sencillo.
+- [Plantilla NDA](./varios/Modelo_NDA_TFM_UCM.docx).
+- Fecha.
+- <strong><span style="color: green;">Es vuestra responsabilidad.</span></strong>
+
+
+## Mas sobre el TFM{.smallerTitle}
+
+- Os puede servir de escaparate.
+- Página de [Github](https://github.com/santiagomota) para los reclutadores.
+- [Github](https://github.com/santiagomota) vs [Gitlab](https://gitlab.com/smota).
+- Mi código es "limpio".
+- ¿Cuido la imagen del repositorio? 
+
+
+## Concurso de becas{.smallerTitle}
+
+- Carlos y yo no tenemos acceso al concurso.
+- No se valora lo mismo.
+
+
+## Últimas comprobaciones I{.smallerTitle}
+
+- ¿Has mirado los derechos de uso de los datos?
+- ¿Tienes el código compartido en un Github o en un Drive? (Acceso)
+- ¿Es accesible para cualquiera desde el link?
+- ¿La memoria ocupa 20 hojas?
+- ¿Tienes el código en los Anexos?
+
+
+## Últimas comprobaciones II{.smallerTitle}
+
+- ¿El proyecto es reproducible?
+- ¿Has incluido un apartado de conclusiones?
+- ¿Has incluido el vídeo (si procede)? Otros vídeos.
+- ¿Incorpora contenido de varias asignaturas o profundiza en algún contenido?
+- ¿Usa software propietario (licencia acceso profesores | darse de alta)?
+
+
+## Consideraciones finales{.smallerTitle}
+
+- Sólo se corrigen las entregas de la plataforma.
+- La vida media de lo que os enseñamos.
+- Puede ser una primera carta de presentación.
+- Es algo vuestro.
+- La nota no es una suma de cosas -> Fomentar diversidad.
+
+
+## Bonus - Kaggle I{.smallerTitle}
+
+- El premio del millón de dólares de Netflix [Link con subscripción](https://www.wired.com/2009/09/bellkors-pragmatic-chaos-wins-1-million-netflix-prize/).
+- Marchamo “de facto” para data science (primeros = TRABAJO).
+- Mas de 200.000 usuarios en todo el mundo ¿Creciendo?
+- Zona de test para los algoritmos mas avanzados (xgboost).
+- Adquirido en 2017 por Google.
+
+
+## Bonus - Kaggle II{.smallerTitle}
+
+- ¿Por qué puede ser interesante para vosotros? Conocimientos, puestos de trabajo, metodologías, algoritmos y contactos.
+- Eligir el nombre con cuidado.
+- Apuntarse a los foros.
+- Notebooks [Ejemplo](https://www.kaggle.com/code/santiagomota/pruebas-ucm/)
+- Si los datos del TFM son de aquí, podéis publicar el TFM.
+
+
+## Bonus - Kaggle III{.smallerTitle}
+
+![Perfil 2025-06-09](./figs/Kaggle_Profile_2025-06-09.png){fig-align="center"}
+
+<font size="2">[Mi perfil en Kaggle](https://www.kaggle.com/santiagomota)</font>
+
+
+## Bonus - Kaggle IV{.smallerTitle}
+
+![Perfil 2013](./figs/Kaggle_perfil_viejo.png){fig-align="center"}
+
+
+## Bonus - Kaggle V{.smallerTitle}
+
+![](./figs/Kaggle_mug.jpg){fig-align="center"}
+
+
+# ¡Gracias!{.center-title-slide}
+
+- Santiago Mota [LinkedIn](https://www.linkedin.com/in/santiagomota/) - [santiago_mota@yahoo.es](santiago_mota@yahoo.es) -  [Github](https://github.com/santiagomota)
+- [Repositorio Github](https://github.com/santiagomota/datos-madrid-presentacion)
+
+![](./figs/Concurso_presentacion_Github.svg){fig-align="right"}
