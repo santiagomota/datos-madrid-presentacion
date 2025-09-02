@@ -43,25 +43,20 @@ title-slide-attributes:
 
 ## Premios a la reutilización 2025 {.smallerTitle}
 
-![](./figs/Portada.png){fig-align="center"}
-
 - Premios a la reutilización 2025 [Link](https://datos.madrid.es/portal/site/egob/menuitem.3efdb29b813ad8241e830cc2a8a409a0/?vgnextoid=ff7e9b21d6a37910VgnVCM2000001f4a900aRCRD&vgnextchannel=e7a412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
 - Presentación [Link](https://sede.madrid.es/portal/site/tramites/menuitem.62876cb64654a55e2dbd7003a8a409a0/?vgnextoid=4c0731b003027910VgnVCM1000001d4a900aRCRD&vgnextchannel=23a99c5ffb020310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
 - Bases [Link](https://sede.madrid.es/portal/site/tramites/menuitem.b4c91589e7f6a5d829da39e5a8a409a0/?vgnextoid=d8f12a3a40b17910VgnVCM1000001d4a900aRCRD&vgnextchannel=741d814231ede410VgnVCM1000000b205a0aRCRD&vgnextfmt=default) y [Documento](./varios/boam9895_2291.pdf)
 - <strong><span style="color: green;">Categoría: Propuestas de mejora de la calidad del Portal de Datos Abiertos.</span></strong>
 
 
-
 ## Mejora de la web{.smallerTitle}
 
 - Incorporar códigos de ejemplo en Python y R.
-- Exportar datos a parquet y usar duckDB.
+- Exportar datos a `parquet` y usar duckDB.
 - Abrir una página de Github.
 - Incorporar datos en Kaggle (crear un usuario para el ayuntamiento, con ejemplos).
 
 Las dos primeras son internas y las dos segundas son externas.
-
-**[madrid_csv_to_parquet.py](/media/enero/Disco3ATA/Varios/R/Archivos/datos_madrid/madrid_csv_to_parquet.py) para convertir todos los csv a parquet**
 
 
 ## Incorporar códigos de ejemplo en Python y R.
@@ -76,9 +71,12 @@ Las dos primeras son internas y las dos segundas son externas.
 - Propuesta: La incorporación de datos en formato `parquet` está convirtiéndose poco a poco en un estándar que sustituye a los csv, con 
 - Objetivos: La principal ventaja es que la compresión de esta formato reduce el tamaño de los datos. Además permite es uso de herramientas como `duckDB` que facilitan trabajar con datos superiores a la memoria del ordenador. 
 
+
 ## Exportar datos a parquet y usar duckDB.
 
 - Implementación: Se ha desarrollado un código en el repositorio [link] para recorrer la página web y transformar los ficheros `csv` a `parquet`. 
+
+- **[madrid_csv_to_parquet.py](/media/enero/Disco3ATA/Varios/R/Archivos/datos_madrid/madrid_csv_to_parquet.py) para convertir todos los csv a parquet**
 
 
 ## Abrir una página de Github.
@@ -89,8 +87,8 @@ Las dos primeras son internas y las dos segundas son externas.
 
 ## Incorporar datos en Kaggle (crear un usuario para el ayuntamiento, con ejemplos).
 
-Propuesta: Crear una página propia en Kaggle de Datos Abiertos del Ayuntamiento de Madrid.
-Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plataforma de uso internacional con mas de 200.000 usuarios. 
+- Propuesta: Crear una página propia en Kaggle de Datos Abiertos del Ayuntamiento de Madrid.
+- Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plataforma de uso internacional con mas de 200.000 usuarios. 
 
 
 
