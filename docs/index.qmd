@@ -84,9 +84,7 @@ Las dos primeras son internas y las dos segundas son externas.
 - Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plataforma de uso internacional con mas de 200.000 usuarios. 
 
 
-
-
-## 4. Kaggle I{.smallerTitle}
+## Kaggle I{.smallerTitle}
 
 - El premio del millón de dólares de Netflix [Link con subscripción](https://www.wired.com/2009/09/bellkors-pragmatic-chaos-wins-1-million-netflix-prize/).
 - Mas de 200.000 usuarios en todo el mundo.
@@ -94,7 +92,7 @@ Las dos primeras son internas y las dos segundas son externas.
 - Adquirido en 2017 por Google.
 
 
-## 4 Kaggle II{.smallerTitle}
+## Kaggle II{.smallerTitle}
 
 - ¿Por qué puede ser interesante para el Ayuntamiento? 
 
