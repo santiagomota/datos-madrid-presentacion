@@ -76,25 +76,30 @@ Las dos primeras son internas y las dos segundas son externas.
 
 - Propuesta: Crear una página propia en Github de Datos Abiertos del Ayuntamiento de Madrid.
 - Objetivos: Facilitar el trabajo con las datos abiertos a través del control de versiones.
+- Implementación: No debería llevar mas de uno o dos días crear la página.
 
 
 ## Incorporar datos en Kaggle
 
 - Propuesta: Crear una página propia en Kaggle de Datos Abiertos del Ayuntamiento de Madrid.
-- Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plataforma de uso internacional con mas de 200.000 usuarios. 
+- Objetivos: Promocionar el uso de los datos abiertos del Ayuntamiento en una plataforma de uso internacional con mas de 200.000 usuarios.
+- Implementación: No debería llevar mas de uno o dos días crear la página.
 
 
-## Kaggle I{.smallerTitle}
+## Kaggle {.smallerTitle}
 
 - El premio del millón de dólares de Netflix [Link con subscripción](https://www.wired.com/2009/09/bellkors-pragmatic-chaos-wins-1-million-netflix-prize/).
 - Mas de 200.000 usuarios en todo el mundo.
-- Zona de test para los algoritmos mas avanzados (xgboost).
-- Adquirido en 2017 por Google.
+- Zona de test para los algoritmos mas avanzados.
+- Adquirido en 2017 por Google ([Wikipedia Kaggle](https://en.wikipedia.org/wiki/Kaggle)).
 
 
-## Kaggle II{.smallerTitle}
+## Resumen I
 
-- ¿Por qué puede ser interesante para el Ayuntamiento? 
+- Las mejoras están dirigidas a ampliar el uso de los datos abiertos del Ayuntamiento de Madrid.
+- Se proponen cambios en la propia web y la creación de páginas en otras.
+- Como punto negativo, la posibilidad de perder algo de control sobre el uso.
+- Son bastante sencillas de implentar y se aportan varios ejemplos funcionales en las internas.
 
 
 ## ¡Gracias!{.center-title-slide}
