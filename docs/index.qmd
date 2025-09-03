@@ -16,7 +16,19 @@ format:
     preview-links: auto
     chalkboard: true
   pptx:
-    reference-doc: template_minima.pptx    
+    slide-number: c/t
+    show-slide-number: all
+    reference-doc: template_minima.pptx
+    footer: "Premios a la reutilización 2025 - https://mejoras-madrid.netlify.app/"  
+  beamer: 
+    theme: Berkeley # Montpellier  
+    linkcolor: blue
+    slide-number: c/t
+    show-slide-number: all   
+    navigation: horizontal
+    header-includes: |
+      \titlegraphic{\includegraphics[width=0.2\paperwidth]{figs/logo_premios_2.png}}
+    footer: "Premios a la reutilización 2025 - https://mejoras-madrid.netlify.app/"
 title-slide-attributes:
   data-background-image: ./figs/intro-slide.png
   data-background-size: cover
@@ -56,7 +68,7 @@ Las dos primeras son internas y las dos segundas son externas.
 
 - Propuesta: Incorporar en la pagina web ejemplos de código para el uso de los datos publicados.
 - Objetivos: Facilitar el tratamiento de los datos publicados.
-- Implementación: Se aportan varios ejemplos en el repositorio [link](https://github.com/santiagomota/madrid-open-data-mejora)
+- Implementación: Se aportan varios ejemplos en el repositorio [Link](https://github.com/santiagomota/madrid-open-data-mejora)
 
 
 ## Exportar datos a parquet y usar duckDB
@@ -67,7 +79,7 @@ Las dos primeras son internas y las dos segundas son externas.
 
 ## Exportar datos a parquet y usar duckDB
 
-- Implementación: Se ha desarrollado un código en el repositorio [link](https://github.com/santiagomota/madrid-open-data-mejora) para recorrer la página web y transformar los ficheros `csv` a `parquet`. 
+- Implementación: Se ha desarrollado un código en el repositorio [Link](https://github.com/santiagomota/madrid-open-data-mejora) para recorrer la página web y transformar los ficheros `csv` a `parquet`. 
 
 - **[madrid_csv_to_parquet.py](/media/enero/Disco3ATA/Varios/R/Archivos/datos_madrid/madrid_csv_to_parquet.py) para convertir todos los csv a parquet**
 
@@ -94,12 +106,12 @@ Las dos primeras son internas y las dos segundas son externas.
 - Adquirido en 2017 por Google ([Wikipedia Kaggle](https://en.wikipedia.org/wiki/Kaggle)).
 
 
-## Resumen I
+## Resumen
 
 - Las mejoras están dirigidas a ampliar el uso de los datos abiertos del Ayuntamiento de Madrid.
 - Se proponen cambios en la propia web y la creación de páginas en otras.
 - Como punto negativo, la posibilidad de perder algo de control sobre el uso.
-- Son bastante sencillas de implentar y se aportan varios ejemplos funcionales en las internas.
+- Son bastante sencillas de implementar y se aportan varios ejemplos funcionales en las internas.
 
 
 ## ¡Gracias!{.center-title-slide}
@@ -110,4 +122,4 @@ Las dos primeras son internas y las dos segundas son externas.
 - [Esta presentación online](https://mejoras-madrid.netlify.app/)
 - [Repositorio Github de esta presentación](https://github.com/santiagomota/datos-madrid-presentacion)
 
-![](./figs/Concurso_presentacion_Github.svg){fig-align="right"}
+![](./figs/Concurso_presentacion_Github.svg){fig-align="right" width="20%"}
