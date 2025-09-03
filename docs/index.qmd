@@ -1,6 +1,6 @@
 ---
 title: "Premios a la reutilización 2025"
-author: "Santiago Mota | [@mota_santiago](https://twitter.com/mota_santiago)"
+author: "[Santiago Mota](https://www.linkedin.com/in/santiagomota/) | [Presentación](https://mejoras-madrid.netlify.app/)"
 mail:     "santiago_mota@yahoo.es"
 linkedin: "santiagomota"
 twitter:  "mota_santiago"
