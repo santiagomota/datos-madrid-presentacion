@@ -26,18 +26,12 @@ title-slide-attributes:
 
 ## Santiago Mota Herce {.smallerTitle}
 
-::: {.incremental}
-
 ![](./figs/00017_2e.jpg){.absolute bottom=0 right=0 width="20%"}
 
 - Físico. MBA y Máster BI y BigData (2013).
 - M&A. CEO empresa náutica I+D+I.
 - Consultor freelance. Vodafone, Teradata, Bankia, Repsol, BCG, Orange.
-- Co-organizador [Meet-up Usuarios de R Madrid](https://madrid.r-es.org/).
-- Tesorero [R-Hispano](https://r-es.org/).
 - [LinkedIn](https://www.linkedin.com/in/santiagomota/)
-
-:::
 
 
 ## Premios a la reutilización 2025 {.smallerTitle}
