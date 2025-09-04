@@ -5,6 +5,20 @@ Presentación del Concurso de datos abiertos de Madrid
 ![](Portada.png)
 
 
+## Material presentado
+
+Se ha estructurado como una presentación, alojada en la web [https://mejoras-madrid.netlify.app/](https://mejoras-madrid.netlify.app/).
+
+Además, en este repositorio en el directorio `docs` se incluyen:
+
+- `index.qmd`: El código en formato quarto.
+- `index.html`: Presentación en formato html (Igual que la web).
+- `index.pptx`: Presentación en formato Power Point.
+- `index.pdf`: Presentación en formato pdf (latex).
+
+Por otro lado, hay un segundo repositorio [madrid-open-data-mejora](https://github.com/santiagomota/madrid-open-data-mejora) en Github con el código de los dos proyectos internos.
+
+
 ## Categorias, criterios de valoración y puntuaciones: 
 
 Servicios web y aplicaciones
