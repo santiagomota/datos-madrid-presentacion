@@ -66,12 +66,15 @@ title-slide-attributes:
 Las dos primeras son internas y las dos segundas son externas.
 
 
-## Incorporar códigos de ejemplo en Python y R
+## Incorporar códigos de ejemplo en Python y R I
 
-- Propuesta: Incorporar en la pagina web ejemplos de código para el uso de los datos publicados.
+- Propuesta: Incorporar en la pagina web ejemplos de código para el uso de los datos publicados tanto en Python como en R.
 - Objetivos: Facilitar el tratamiento de los datos publicados.
-- Implementación: Se aportan varios ejemplos en el repositorio [Link](https://github.com/santiagomota/madrid-open-data-mejora)
 
+
+## Incorporar códigos de ejemplo en Python y R II
+
+- Implementación: Se aportan varios ejemplos en el repositorio [Link](https://github.com/santiagomota/madrid-open-data-mejora) y el repositorio [Link](https://github.com/santiagomota/datos-madrid). El primero son ejemplos relativamente sencillos y en el segundo se abordan problemas de mas profundidad, en el especial el del tráfico de Madrid, tanto histórico como en tiempo real.
 
 ## Exportar datos a parquet y usar duckDB I
 
