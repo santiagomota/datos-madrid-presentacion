@@ -26,6 +26,7 @@ format:
     slide-number: c/t
     show-slide-number: all   
     navigation: horizontal
+    logo: figs/logo_premios_3.png
     header-includes: |
       \titlegraphic{\includegraphics[width=0.2\paperwidth]{figs/logo_premios_2.png}}
       \setbeamertemplate{footline}[page number]
