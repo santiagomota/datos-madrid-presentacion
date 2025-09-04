@@ -32,7 +32,7 @@ format:
       \setbeamertemplate{footline}[page number]
     footline: "Premios a la reutilización 2025 - https://mejoras-madrid.netlify.app/"
 title-slide-attributes:
-  data-background-image: ./figs/intro-slide.png
+  data-background-image: ./figs/Leaflet_trafico.png
   data-background-size: cover
   data-background-opacity: "0.5"
 ---
@@ -74,7 +74,9 @@ Las dos primeras son internas y las dos segundas son externas.
 
 ## Incorporar códigos de ejemplo en Python y R II
 
-- Implementación: Se aportan varios ejemplos en el repositorio [Link](https://github.com/santiagomota/madrid-open-data-mejora) y el repositorio [Link](https://github.com/santiagomota/datos-madrid). El primero son ejemplos relativamente sencillos y en el segundo se abordan problemas de mas profundidad, en el especial el del tráfico de Madrid, tanto histórico como en tiempo real.
+- Implementación: Se aportan varios ejemplos en el repositorio [Link](https://github.com/santiagomota/madrid-open-data-mejora) y el repositorio [Link](https://github.com/santiagomota/datos-madrid). El primero son ejemplos relativamente sencillos y en el segundo se abordan problemas de mas profundidad, en el especial el del tráfico de Madrid.
+
+![](./figs/Leaflet_trafico.png){fig-align="center"}
 
 ## Exportar datos a parquet y usar duckDB I
 
@@ -86,7 +88,7 @@ Las dos primeras son internas y las dos segundas son externas.
 
 - Implementación: Se ha desarrollado un código en el repositorio [Link](https://github.com/santiagomota/madrid-open-data-mejora) para recorrer la página web y transformar los ficheros `csv` a `parquet`. 
 
-- **[madrid_csv_to_parquet.py](/media/enero/Disco3ATA/Varios/R/Archivos/datos_madrid/madrid_csv_to_parquet.py) para convertir todos los csv a parquet**
+- **[madrid_csv_to_parquet.py](https://github.com/santiagomota/madrid-open-data-mejora/blob/main/python/madrid_csv_to_parquet.py) para convertir todos los csv a parquet**
 
 
 ## Abrir una página de Github
