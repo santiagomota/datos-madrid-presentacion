@@ -28,7 +28,8 @@ format:
     navigation: horizontal
     header-includes: |
       \titlegraphic{\includegraphics[width=0.2\paperwidth]{figs/logo_premios_2.png}}
-    footer: "Premios a la reutilización 2025 - https://mejoras-madrid.netlify.app/"
+      \setbeamertemplate{footline}[page number]
+    footline: "Premios a la reutilización 2025 - https://mejoras-madrid.netlify.app/"
 title-slide-attributes:
   data-background-image: ./figs/intro-slide.png
   data-background-size: cover
