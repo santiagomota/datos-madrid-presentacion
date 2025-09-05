@@ -128,6 +128,6 @@ Las dos primeras son internas y las dos segundas son externas.
 - [Github Santiago Mota](https://github.com/santiagomota)
 - [Esta presentación online](https://mejoras-madrid.netlify.app/)
 - [Repositorio Github de esta presentación](https://github.com/santiagomota/datos-madrid-presentacion)
-- [Vídeo presentación](https://youtu.be/Vt4EKwCKC7Q)
+- [Vídeo presentación (7 minutos)](https://youtu.be/Vt4EKwCKC7Q)
 
 ![](./figs/Concurso_presentacion_Github.svg){fig-align="right" width="20%"}
